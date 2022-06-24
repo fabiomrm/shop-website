@@ -1,79 +1,46 @@
-<br />
-<p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-messias-535621127/">
-    <img src="https://i.imgur.com/M4CsV6Q.png" alt="Logo" width="1000">
-  </a>
+# Getting Started with Create React App
 
-  <h3 align="center">Shop Website by <a href="https://www.linkedin.com/in/emmanuel-messias-535621127/">Emmanuel Messias</a></h3>
- <br />
-  <p align="center">
-    Site de loja de roupas e sapatos
-       <br />
-    <br />
-    <a href="https://github.com/devchallenge-io/shop-website">Desafio</a>
-    ·
-    <a href="https://devchallenge.now.sh/">DevChallenge</a>
-  </p>
-</p>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Índice
+## Available Scripts
 
-* [Devchallenge](#devchallenge) 
-* [Desafio](#desafio)
-* [Techs](#techs)
-* [Como começar](#como-começar)
-* [Dicas](#dicas)  
-  * [Cores](#cores)
-  * [Modelo](#modelo)
-  * [Imagens](#imagens)
-  * [Icones](#icones)
-  * [Tipo de fonte](#tipo-de-fonte)
-* [Compartilhe](#compartilhe)
+In the project directory, you can run:
 
-# Devchallenge
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
+### `npm start`
 
-# Desafio
-Seu desafio é criar um site de uma loja com um carrinho de compras! O modelo final está disponível na pasta "design"
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Requisitos:
-- Sua página deverá conter um menu à esquerda com as seções da loja (women, men, shoes e brand)<br>
-- Sua página deverá possuir um carrinho, onde o usuário poderá selecionar o tamaho do produto  e adicionar mais unidades<br>
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-### Requisitos bônus
-- Você poderá adicionar um menu drop down para aparecer quando o usuário clicar no ícone superior direito.
-- Você poderá adicionar um slider, para quando o usuário clicar em "prev", a tela rolar para outro produto disponível
+### `npm test`
 
-# Techs: 
-- HTML e CSS
-- Framework ou linguagem que preferir :)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-# Como começar:
-1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar! Sinta-se livre para utilizar o fluxo de trabalho que ache mais confortável<br>
-4 - Compartilhe seu resultado com a comunidade! Se puder, mostre seus resultado aqui no repositório também, criando uma Issue :)<br>
+### `npm run build`
 
-# Dicas
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Cores:
-Laranja: #e67e34
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Modelo:
-O modelo final está disponível na pasta `./design`
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Imagens
-As imagens utilizadas estão disponíveis na pasta `./assets`
+### `npm run eject`
 
-## Icones
-Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-## Tipo de fonte:
-- Montserrat
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-# Compartilhe!
-Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
-Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
-Você tambm pode adicionar uma "issue" neste repositório mostrando seu resultado final!
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Desafio criado por  <a href="https://www.linkedin.com/in/emmanuel-messias-535621127/">Emmanuel Messias</a> :)
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
